@@ -1,0 +1,10 @@
+ID,Description,Rating
+300,light intensity drizzle,outdoor
+301,drizzle,outdoor
+302,heavy intensity drizzle,indoor
+310,light intensity drizzle rain,indoor
+311,drizzle rain,indoor
+312,heavy intensity drizzle rain,indoor
+313,shower rain and drizzle,indoor
+314,heavy shower rain and drizzle,indoor
+321,shower drizzle,indoor

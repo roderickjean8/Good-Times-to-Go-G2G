@@ -1,0 +1,11 @@
+ID,Description,Rating
+500,light rain,outdoor
+501,moderate rain,indoor
+502,heavy intensity rain,indoor
+503,very heavy rain,indoor
+504,extreme rain,indoor
+511,freezing rain,indoor
+520,light intensity shower rain,indoor
+521,shower rain,indoor
+522,heavy intensity shower rain,indoor
+531,ragged shower rain,indoor
