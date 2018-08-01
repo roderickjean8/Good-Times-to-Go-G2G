@@ -1,4 +1,3 @@
-# Data_Destroyers
 ## Project - Good Times to Go!!! (G2G)
 
 **Objective**: The project, is developed in Python, focussed at recommending activities to people based on the current weather conditions for the given city,state.
@@ -961,61 +960,61 @@ for acty in Acty:
     
 
 
-![png](output_15_1.png)
+![png](Results/output_15_1.png)
 
 
     CAMPGROUND
     
 
 
-![png](output_15_3.png)
+![png](Results/output_15_3.png)
 
 
     CASINO
     
 
 
-![png](output_15_5.png)
+![png](Results/output_15_5.png)
 
 
     LODGING
     
 
 
-![png](output_15_7.png)
+![png](Results/output_15_7.png)
 
 
     MOVIE_RENTAL
     
 
 
-![png](output_15_9.png)
+![png](Results/output_15_9.png)
 
 
     MOVIE_THEATER
     
 
 
-![png](output_15_11.png)
+![png](Results/output_15_11.png)
 
 
     NIGHT_CLUB
     
 
 
-![png](output_15_13.png)
+![png](Results/output_15_13.png)
 
 
     RESTAURANT
     
 
 
-![png](output_15_15.png)
+![png](Results/output_15_15.png)
 
 
     STADIUM
     
 
 
-![png](output_15_17.png)
+![png](Results/output_15_17.png)
 
